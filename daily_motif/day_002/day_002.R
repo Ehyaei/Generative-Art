@@ -1,5 +1,5 @@
 library(ggplot2)
 library(Kaashi)
-square = regularPolygon(8)
-tile <- motif(square,n = 8, theta = 45, delta = 0.5, polyLine = F, dist = 0.04)
-daily_minimal_plot(tile,"daily_motif/day_001/day_001.png",type = "png",caption = "Daily Motif\n\nNO. 1")
+square = regularPolygon(12)
+tile <- motif(square,n = 12, theta = 30, delta = 0, polyLine = F, dist = 0.1,midpoint = c(1,1))
+daily_minimal_plot(tile,"daily_motif/day_002/day_002.png",type = "png",caption = "Daily Motif\n\nNO. 2")
