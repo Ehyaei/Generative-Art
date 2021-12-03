@@ -42,4 +42,10 @@ daily_submit <- function(tile, day,
   # Copy to Blog
   file.copy(paste0(fileTemp,".png"), copy_path)
   
+  # Commit and push Generative Art
+  system("git add *")
+  system(sprintf("git commit -a -m \" design day %s\"",dp))
+  system("git push")
+  
+  
 }
