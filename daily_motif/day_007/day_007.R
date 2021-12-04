@@ -1,16 +1,14 @@
 source("manuscript/utils.R")
 
-square = regularPolygon(4, sf = T)
-sf::st_centroid(square) %>% st_ca
-tile = square
+square <- regularPolygon(4)
+tile <- motif(square, n = 4, theta = 45, delta = 0, polyLine = F,dist = 0.2)
 
-for(i in 1:16){
-  square %>% 
-    motif_scale(1) %>% 
-    motif_rotation(i*45) %>% 
-    motif_transfer(c(-1+0.25*i,1+0.25*i)) %>% 
-    motif_union(tile) -> tile
+tiles = tile
+for(i in 1:3){
+  tile %>% 
+    motif_rotation(i*60,center = c(0,1)) %>% 
+    motif_union(tiles) -> tiles
 }
-tilePlotter(tile)
 
 daily_submit(tiles, "7")
+
