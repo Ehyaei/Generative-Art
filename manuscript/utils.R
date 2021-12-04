@@ -6,7 +6,8 @@
 
 library(ggplot2)
 library(Kaashi)
-
+library(dplyr)
+library(sf)
 ############################################################
 #                                                          #
 #               Put Plot in Project and Blog               #
