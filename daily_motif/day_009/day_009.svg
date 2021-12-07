@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='453.54pt' height='453.54pt' viewBox='0 0 453.54 453.54'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #EEEEEE;'/>
+<defs>
+  <clipPath id='cpMC4wMHw0NTMuNTR8MC4wMHw0NTMuNTQ='>
+    <rect x='0.00' y='0.00' width='453.54' height='453.54' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw0NTMuNTR8MC4wMHw0NTMuNTQ=)'>
+</g>
+<defs>
+  <clipPath id='cpMC4wMHw0NTMuNTR8MzMuNzN8NDE5Ljgx'>
+    <rect x='0.00' y='33.73' width='453.54' height='386.08' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw0NTMuNTR8MzMuNzN8NDE5Ljgx)'>
+<rect x='0.00' y='33.73' width='453.54' height='386.08' style='stroke-width: 2.13; stroke: #EEEEEE; fill: #EEEEEE;' />
+</g>
+<g clip-path='url(#cpMC4wMHw0NTMuNTR8MC4wMHw0NTMuNTQ=)'>
+</g>
+<defs>
+  <clipPath id='cpMTEzLjM5fDM0MC4xNnwxNDcuMTJ8Mjc4LjU2'>
+    <rect x='113.39' y='147.12' width='226.77' height='131.44' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMTEzLjM5fDM0MC4xNnwxNDcuMTJ8Mjc4LjU2)'>
+<rect x='113.39' y='147.12' width='226.77' height='131.44' style='stroke-width: 0.75; stroke: #EEEEEE; fill: #EEEEEE;' />
+<path d='M 322.20 179.98 L 338.37 189.31 L 340.16 190.34 L 316.22 190.34 L 322.20 179.98 Z' style='fill-rule: evenodd; fill: #101010; stroke-width: 1.07; stroke: #101010; stroke-linecap: butt;' />
+<path d='M 340.16 235.33 L 322.20 245.70 L 316.22 235.33 L 340.16 235.33 Z' style='fill-rule: evenodd; fill: #101010; stroke-width: 1.07; stroke: #101010; stroke-linecap: butt;' />
+<path d='M 284.01 267.75 L 277.77 256.94 L 290.25 235.33 L 315.20 235.33 L 321.44 246.14 L 284.01 267.75 Z' style='fill-rule: evenodd; fill: #101010; stroke-width: 1.07; stroke: #101010; stroke-linecap: butt;' />
+<path d='M 290.76 234.45 L 302.72 213.72 L 314.69 234.45 L 290.76 234.45 Z' style='fill-rule: evenodd; fill: #101010; stroke-width: 1.07; stroke: #101010; stroke-linecap: butt;' />
+<path d='M 265.29 278.56 L 277.26 257.83 L 283.24 268.19 L 265.29 278.56 Z' style='fill-rule: evenodd; fill: #101010; stroke-width: 1.07; stroke: #101010; stroke-linecap: butt;' />
+<path d='M 239.83 234.45 L 251.80 213.72 L 263.76 234.45 L 239.83 234.45 Z' style='fill-rule: evenodd; fill: #101010; stroke-width: 1.07; stroke: #101010; stroke-linecap: butt;' />
+<path d='M 252.30 212.84 L 255.69 206.97 L 264.78 191.23 L 280.96 191.23 L 289.74 191.23 L 302.22 212.84 L 289.74 234.45 L 286.34 234.45 L 264.78 234.45 L 256.14 219.48 L 252.30 212.84 Z' style='fill-rule: evenodd; fill: #101010; stroke-width: 1.07; stroke: #101010; stroke-linecap: butt;' />
+<path d='M 289.23 235.33 L 277.26 256.06 L 265.29 235.33 L 285.46 235.33 L 289.23 235.33 Z' style='fill-rule: evenodd; fill: #101010; stroke-width: 1.07; stroke: #101010; stroke-linecap: butt;' />
+<path d='M 226.33 256.06 L 226.33 242.24 L 226.33 235.33 L 238.30 235.33 L 226.33 256.06 Z' style='fill-rule: evenodd; fill: #101010; stroke-width: 1.07; stroke: #101010; stroke-linecap: butt;' />
+<path d='M 226.33 191.23 L 238.81 191.23 L 251.29 212.84 L 238.81 234.45 L 226.33 234.45 L 226.33 191.23 Z' style='fill-rule: evenodd; fill: #101010; stroke-width: 1.07; stroke: #101010; stroke-linecap: butt;' />
+<path d='M 239.83 191.23 L 263.76 191.23 L 251.80 211.96 L 239.83 191.23 Z' style='fill-rule: evenodd; fill: #101010; stroke-width: 1.07; stroke: #101010; stroke-linecap: butt;' />
+<path d='M 226.33 179.24 L 226.33 169.61 L 238.30 190.34 L 226.33 190.34 L 226.33 179.24 Z' style='fill-rule: evenodd; fill: #101010; stroke-width: 1.07; stroke: #101010; stroke-linecap: butt;' />
+<path d='M 277.26 169.61 L 289.23 190.34 L 281.56 190.34 L 265.29 190.34 L 277.26 169.61 Z' style='fill-rule: evenodd; fill: #101010; stroke-width: 1.07; stroke: #101010; stroke-linecap: butt;' />
+<path d='M 265.29 147.12 L 283.24 157.48 L 277.26 167.85 L 265.29 147.12 Z' style='fill-rule: evenodd; fill: #101010; stroke-width: 1.07; stroke: #101010; stroke-linecap: butt;' />
+<path d='M 284.01 157.93 L 300.31 167.33 L 321.44 179.54 L 315.20 190.34 L 313.77 190.34 L 290.25 190.34 L 277.77 168.73 L 284.01 157.93 Z' style='fill-rule: evenodd; fill: #101010; stroke-width: 1.07; stroke: #101010; stroke-linecap: butt;' />
+<path d='M 314.69 191.23 L 302.72 211.96 L 290.76 191.23 L 314.69 191.23 Z' style='fill-rule: evenodd; fill: #101010; stroke-width: 1.07; stroke: #101010; stroke-linecap: butt;' />
+<path d='M 131.34 245.70 L 115.17 236.36 L 113.39 235.33 L 137.32 235.33 L 131.34 245.70 Z' style='fill-rule: evenodd; fill: #101010; stroke-width: 1.07; stroke: #101010; stroke-linecap: butt;' />
+<path d='M 113.39 190.34 L 131.34 179.98 L 137.32 190.34 L 113.39 190.34 Z' style='fill-rule: evenodd; fill: #101010; stroke-width: 1.07; stroke: #101010; stroke-linecap: butt;' />
+<path d='M 169.54 157.93 L 175.77 168.73 L 163.30 190.34 L 138.34 190.34 L 132.10 179.54 L 169.54 157.93 Z' style='fill-rule: evenodd; fill: #101010; stroke-width: 1.07; stroke: #101010; stroke-linecap: butt;' />
+<path d='M 162.79 191.23 L 150.82 211.96 L 138.85 191.23 L 162.79 191.23 Z' style='fill-rule: evenodd; fill: #101010; stroke-width: 1.07; stroke: #101010; stroke-linecap: butt;' />
+<path d='M 188.25 147.12 L 176.28 167.85 L 170.30 157.48 L 188.25 147.12 Z' style='fill-rule: evenodd; fill: #101010; stroke-width: 1.07; stroke: #101010; stroke-linecap: butt;' />
+<path d='M 213.72 191.23 L 201.75 211.96 L 189.78 191.23 L 213.72 191.23 Z' style='fill-rule: evenodd; fill: #101010; stroke-width: 1.07; stroke: #101010; stroke-linecap: butt;' />
+<path d='M 201.24 212.84 L 197.85 218.70 L 188.76 234.45 L 172.58 234.45 L 163.81 234.45 L 151.33 212.84 L 163.81 191.23 L 167.20 191.23 L 188.76 191.23 L 197.40 206.19 L 201.24 212.84 Z' style='fill-rule: evenodd; fill: #101010; stroke-width: 1.07; stroke: #101010; stroke-linecap: butt;' />
+<path d='M 164.32 190.34 L 176.28 169.61 L 188.25 190.34 L 168.08 190.34 L 164.32 190.34 Z' style='fill-rule: evenodd; fill: #101010; stroke-width: 1.07; stroke: #101010; stroke-linecap: butt;' />
+<path d='M 227.21 169.61 L 227.21 183.43 L 227.21 190.34 L 215.24 190.34 L 227.21 169.61 Z' style='fill-rule: evenodd; fill: #101010; stroke-width: 1.07; stroke: #101010; stroke-linecap: butt;' />
+<path d='M 227.21 234.45 L 214.74 234.45 L 202.26 212.84 L 214.74 191.23 L 227.21 191.23 L 227.21 234.45 Z' style='fill-rule: evenodd; fill: #101010; stroke-width: 1.07; stroke: #101010; stroke-linecap: butt;' />
+<path d='M 213.72 234.45 L 189.78 234.45 L 201.75 213.72 L 213.72 234.45 Z' style='fill-rule: evenodd; fill: #101010; stroke-width: 1.07; stroke: #101010; stroke-linecap: butt;' />
+<path d='M 227.21 246.44 L 227.21 256.06 L 215.24 235.33 L 227.21 235.33 L 227.21 246.44 Z' style='fill-rule: evenodd; fill: #101010; stroke-width: 1.07; stroke: #101010; stroke-linecap: butt;' />
+<path d='M 176.28 256.06 L 164.32 235.33 L 171.99 235.33 L 188.25 235.33 L 176.28 256.06 Z' style='fill-rule: evenodd; fill: #101010; stroke-width: 1.07; stroke: #101010; stroke-linecap: butt;' />
+<path d='M 188.25 278.56 L 170.30 268.19 L 176.28 257.83 L 188.25 278.56 Z' style='fill-rule: evenodd; fill: #101010; stroke-width: 1.07; stroke: #101010; stroke-linecap: butt;' />
+<path d='M 169.54 267.75 L 153.24 258.34 L 132.10 246.14 L 138.34 235.33 L 139.77 235.33 L 163.30 235.33 L 175.77 256.94 L 169.54 267.75 Z' style='fill-rule: evenodd; fill: #101010; stroke-width: 1.07; stroke: #101010; stroke-linecap: butt;' />
+<path d='M 138.85 234.45 L 150.82 213.72 L 162.79 234.45 L 138.85 234.45 Z' style='fill-rule: evenodd; fill: #101010; stroke-width: 1.07; stroke: #101010; stroke-linecap: butt;' />
+</g>
+<g clip-path='url(#cpMC4wMHw0NTMuNTR8MC4wMHw0NTMuNTQ=)'>
+<text x='226.77' y='389.76' text-anchor='middle' style='font-size: 7.20px; font-weight: 500; fill: #101010; font-family: Virtuous Slab;' textLength='42.54px' lengthAdjust='spacingAndGlyphs'>Daily Motif</text>
+<text x='226.77' y='397.53' text-anchor='middle' style='font-size: 7.20px; font-weight: 500; fill: #101010; font-family: Virtuous Slab;' textLength='0.00px' lengthAdjust='spacingAndGlyphs'></text>
+<text x='226.77' y='405.31' text-anchor='middle' style='font-size: 7.20px; font-weight: 500; fill: #101010; font-family: Virtuous Slab;' textLength='21.66px' lengthAdjust='spacingAndGlyphs'>NO. 9</text>
+</g>
+</svg>
