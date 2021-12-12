@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='453.54pt' height='453.54pt' viewBox='0 0 453.54 453.54'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #EEEEEE;'/>
+<defs>
+  <clipPath id='cpMC4wMHw0NTMuNTR8MC4wMHw0NTMuNTQ='>
+    <rect x='0.00' y='0.00' width='453.54' height='453.54' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw0NTMuNTR8MC4wMHw0NTMuNTQ=)'>
+</g>
+<defs>
+  <clipPath id='cpMTMuOTN8NDM5LjYxfDAuMDB8NDUzLjU0'>
+    <rect x='13.93' y='0.00' width='425.67' height='453.54' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMTMuOTN8NDM5LjYxfDAuMDB8NDUzLjU0)'>
+<rect x='13.93' y='0.00' width='425.67' height='453.54' style='stroke-width: 2.13; stroke: #EEEEEE; fill: #EEEEEE;' />
+</g>
+<g clip-path='url(#cpMC4wMHw0NTMuNTR8MC4wMHw0NTMuNTQ=)'>
+</g>
+<defs>
+  <clipPath id='cpMTI3LjMyfDMyNi4yMnwxMTMuMzl8MzEyLjI5'>
+    <rect x='127.32' y='113.39' width='198.90' height='198.90' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMTI3LjMyfDMyNi4yMnwxMTMuMzl8MzEyLjI5)'>
+<rect x='127.32' y='113.39' width='198.90' height='198.90' style='stroke-width: 0.75; stroke: #EEEEEE; fill: #EEEEEE;' />
+<path d='M 316.88 113.39 L 326.22 113.39 L 326.22 122.73 L 309.73 151.29 L 296.15 143.45 L 288.31 129.88 L 316.88 113.39 Z' style='fill-rule: evenodd; fill: #101010; stroke-width: 1.07; stroke: #101010; stroke-linecap: butt;' />
+<path d='M 326.22 203.49 L 326.22 212.84 L 316.88 212.84 L 288.31 196.35 L 296.15 182.77 L 309.73 174.93 L 326.22 203.49 Z' style='fill-rule: evenodd; fill: #101010; stroke-width: 1.07; stroke: #101010; stroke-linecap: butt;' />
+<path d='M 276.50 189.52 L 259.75 179.86 L 250.08 163.11 L 259.75 146.37 L 276.50 136.70 L 293.24 146.37 L 302.91 163.11 L 293.24 179.86 L 276.50 189.52 Z' style='fill-rule: evenodd; fill: #101010; stroke-width: 1.07; stroke: #101010; stroke-linecap: butt;' />
+<path d='M 236.12 212.84 L 226.77 212.84 L 226.77 203.49 L 243.26 174.93 L 256.84 182.77 L 264.68 196.35 L 236.12 212.84 Z' style='fill-rule: evenodd; fill: #101010; stroke-width: 1.07; stroke: #101010; stroke-linecap: butt;' />
+<path d='M 226.77 122.73 L 226.77 113.39 L 236.12 113.39 L 264.68 129.88 L 256.84 143.45 L 243.26 151.29 L 226.77 122.73 Z' style='fill-rule: evenodd; fill: #101010; stroke-width: 1.07; stroke: #101010; stroke-linecap: butt;' />
+<path d='M 217.43 113.39 L 226.77 113.39 L 226.77 122.73 L 210.28 151.29 L 196.70 143.45 L 188.86 129.88 L 217.43 113.39 Z' style='fill-rule: evenodd; fill: #101010; stroke-width: 1.07; stroke: #101010; stroke-linecap: butt;' />
+<path d='M 226.77 203.49 L 226.77 212.84 L 217.43 212.84 L 188.86 196.35 L 196.70 182.77 L 210.28 174.93 L 226.77 203.49 Z' style='fill-rule: evenodd; fill: #101010; stroke-width: 1.07; stroke: #101010; stroke-linecap: butt;' />
+<path d='M 177.05 189.52 L 160.30 179.86 L 150.63 163.11 L 160.30 146.37 L 177.05 136.70 L 193.79 146.37 L 203.46 163.11 L 193.79 179.86 L 177.05 189.52 Z' style='fill-rule: evenodd; fill: #101010; stroke-width: 1.07; stroke: #101010; stroke-linecap: butt;' />
+<path d='M 136.67 212.84 L 127.32 212.84 L 127.32 203.49 L 143.81 174.93 L 157.39 182.77 L 165.23 196.35 L 136.67 212.84 Z' style='fill-rule: evenodd; fill: #101010; stroke-width: 1.07; stroke: #101010; stroke-linecap: butt;' />
+<path d='M 127.32 122.73 L 127.32 113.39 L 136.67 113.39 L 165.23 129.88 L 157.39 143.45 L 143.81 151.29 L 127.32 122.73 Z' style='fill-rule: evenodd; fill: #101010; stroke-width: 1.07; stroke: #101010; stroke-linecap: butt;' />
+<path d='M 316.88 212.84 L 326.22 212.84 L 326.22 222.18 L 309.73 250.75 L 296.15 242.91 L 288.31 229.33 L 316.88 212.84 Z' style='fill-rule: evenodd; fill: #101010; stroke-width: 1.07; stroke: #101010; stroke-linecap: butt;' />
+<path d='M 326.22 302.94 L 326.22 312.29 L 316.88 312.29 L 288.31 295.80 L 296.15 282.22 L 309.73 274.38 L 326.22 302.94 Z' style='fill-rule: evenodd; fill: #101010; stroke-width: 1.07; stroke: #101010; stroke-linecap: butt;' />
+<path d='M 276.50 288.98 L 259.75 279.31 L 250.08 262.56 L 259.75 245.82 L 276.50 236.15 L 293.24 245.82 L 302.91 262.56 L 293.24 279.31 L 276.50 288.98 Z' style='fill-rule: evenodd; fill: #101010; stroke-width: 1.07; stroke: #101010; stroke-linecap: butt;' />
+<path d='M 236.12 312.29 L 226.77 312.29 L 226.77 302.94 L 243.26 274.38 L 256.84 282.22 L 264.68 295.80 L 236.12 312.29 Z' style='fill-rule: evenodd; fill: #101010; stroke-width: 1.07; stroke: #101010; stroke-linecap: butt;' />
+<path d='M 226.77 222.18 L 226.77 212.84 L 236.12 212.84 L 264.68 229.33 L 256.84 242.91 L 243.26 250.75 L 226.77 222.18 Z' style='fill-rule: evenodd; fill: #101010; stroke-width: 1.07; stroke: #101010; stroke-linecap: butt;' />
+<path d='M 217.43 212.84 L 226.77 212.84 L 226.77 222.18 L 210.28 250.75 L 196.70 242.91 L 188.86 229.33 L 217.43 212.84 Z' style='fill-rule: evenodd; fill: #101010; stroke-width: 1.07; stroke: #101010; stroke-linecap: butt;' />
+<path d='M 226.77 302.94 L 226.77 312.29 L 217.43 312.29 L 188.86 295.80 L 196.70 282.22 L 210.28 274.38 L 226.77 302.94 Z' style='fill-rule: evenodd; fill: #101010; stroke-width: 1.07; stroke: #101010; stroke-linecap: butt;' />
+<path d='M 177.05 288.98 L 160.30 279.31 L 150.63 262.56 L 160.30 245.82 L 177.05 236.15 L 193.79 245.82 L 203.46 262.56 L 193.79 279.31 L 177.05 288.98 Z' style='fill-rule: evenodd; fill: #101010; stroke-width: 1.07; stroke: #101010; stroke-linecap: butt;' />
+<path d='M 136.67 312.29 L 127.32 312.29 L 127.32 302.94 L 143.81 274.38 L 157.39 282.22 L 165.23 295.80 L 136.67 312.29 Z' style='fill-rule: evenodd; fill: #101010; stroke-width: 1.07; stroke: #101010; stroke-linecap: butt;' />
+<path d='M 127.32 222.18 L 127.32 212.84 L 136.67 212.84 L 165.23 229.33 L 157.39 242.91 L 143.81 250.75 L 127.32 222.18 Z' style='fill-rule: evenodd; fill: #101010; stroke-width: 1.07; stroke: #101010; stroke-linecap: butt;' />
+</g>
+<g clip-path='url(#cpMC4wMHw0NTMuNTR8MC4wMHw0NTMuNTQ=)'>
+<text x='226.77' y='423.49' text-anchor='middle' style='font-size: 7.20px; font-weight: 500; fill: #101010; font-family: Virtuous Slab;' textLength='42.54px' lengthAdjust='spacingAndGlyphs'>Daily Motif</text>
+<text x='226.77' y='431.27' text-anchor='middle' style='font-size: 7.20px; font-weight: 500; fill: #101010; font-family: Virtuous Slab;' textLength='0.00px' lengthAdjust='spacingAndGlyphs'></text>
+<text x='226.77' y='439.04' text-anchor='middle' style='font-size: 7.20px; font-weight: 500; fill: #101010; font-family: Virtuous Slab;' textLength='24.51px' lengthAdjust='spacingAndGlyphs'>NO. 15</text>
+</g>
+</svg>
