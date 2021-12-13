@@ -9,7 +9,7 @@ The lists of plot categories are:
 
 - 1.  **Daily Motif**: 
 
-<figure class="half" style="display:flex">
+<figure>
 <img src="https://raw.githubusercontent.com/Ehyaei/Generative-Art/main/daily_motif/day_016/day_016.svg" width="40%" />
 <img src="https://raw.githubusercontent.com/Ehyaei/Generative-Art/main/daily_motif/day_013/day_013.svg" width="40%" />
 </figure>
