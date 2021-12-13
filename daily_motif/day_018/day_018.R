@@ -1,0 +1,10 @@
+source("manuscript/utils.R")
+n = 4
+polygon = regularPolygon(n)
+center = st_centroid(regularPolygon(n,sf = T)) %>% .$geometry %>% unlist()
+tile <- motif(box = polygon, n = n, theta = c(18.5, 78.5), delta = 0.8, dist =  0.05, midpoint = center)
+tiles <- tiling(tile,box = polygon, n = 2)
+tiles <- tiles %>% filter(area > min(area))
+tiles <- tiles %>% filter(area > min(area))
+tiles = tiles %>% motif_rotation(45)
+daily_submit(tiles, "18")
