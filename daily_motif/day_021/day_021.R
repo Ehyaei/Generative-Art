@@ -9,4 +9,4 @@ tile <- motif(box = polygon, n = 6, theta = c(30,60), delta = 0,circle = T, dist
   filter(area>min(area)) %>%
   filter(area>min(area))
 tiles = tiling(tile, box = polygon, n = 2, type = "hexagonal")
-daily_submit(tile, "21")
+daily_submit(tiles, "21")
