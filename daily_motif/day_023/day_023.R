@@ -14,4 +14,4 @@ tile = tile2 %>%
   motif_union(motif_rotation(tile1,90) %>% motif_transfer(c(1,1))) %>% 
   motif_rotation(45)
 tilePlotter(tile)
-daily_submit(tiles, "23")
+daily_submit(tile, "23")
